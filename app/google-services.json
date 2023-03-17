@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349228213439",
+    "project_id": "fir-authwithphonenumber-4f312",
+    "storage_bucket": "fir-authwithphonenumber-4f312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349228213439:android:df21259a322e063216520a",
+        "android_client_info": {
+          "package_name": "dev.abdujabbor.firebaseauthwithphonenumber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349228213439-bo898ev2fev5ie530maml0q7dturraan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUJJst5956tsz9AuUohdcgrP92HySjK_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349228213439-bo898ev2fev5ie530maml0q7dturraan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
